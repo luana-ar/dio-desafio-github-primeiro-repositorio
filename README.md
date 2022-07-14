@@ -6,6 +6,6 @@ Neste repositório estarei compartilhando algumas anotações e também pequenos
 
 
 * Git e Github
-* Dominando IDEs Java 
+* [Dominando IDEs Java](https://github.com/luana-ar/dio-desafio-github-primeiro-repositorio/blob/main/dominando-ides-java/java-ides.md)
 
  
